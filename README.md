@@ -11,7 +11,7 @@ Me chamo Jorge Muniz, sou **desenvolvedor back-end**, estudante da [Cubos Academ
 <a href="mailto:jorge.munizfilho@gmail.com">
 <img src="https://media.tenor.com/YyvztaMcEiMAAAAi/message-notification.gif" width="50px"></a>
 
-## 🦾 Hard Skills:
+## 🧠 Hard Skills:
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
