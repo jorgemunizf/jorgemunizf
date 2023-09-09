@@ -7,7 +7,7 @@ Me chamo Jorge Muniz, sou **desenvolvedor back-end**, estudante da [Cubos Academ
 > 🌍 Acredito que a tecnologia tem o poder de mudar o mundo, e estou animado para fazer minha parte nessa jornada. Vamos construir um futuro mais inteligente e conectado juntos!
 
 ## 🔎 Me encontre:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-muniz/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&custom_title=jorge-muniz)](https://www.linkedin.com/in/jorge-muniz/)
 <a href="mailto:jorge.munizfilho@gmail.com">
 <img src="https://media.tenor.com/YyvztaMcEiMAAAAi/message-notification.gif" width="50px"></a>
 
