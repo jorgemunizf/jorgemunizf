@@ -1,6 +1,7 @@
 # 🙋‍♂️ Olá, pessoal! 
 
-Me chamo Jorge Muniz, sou **desenvolvedor back-end**, estudante da [Cubos Academy](https://cubos.academy/) desde 2023, um apaixonado por tecnologia, desenvolvimento e um eterno curioso.🚀
+
+Me chamo Jorge Muniz sou desenvolvedor Back-End apaixonado por desafios, especializado em JavaScript, Node.js e SQL. Mestre na arte da lógica de programação, mestre Jedi em resolução de conflitos e entusiasta das metodologias ágeis. Com um toque de mágica, transformo problemas em soluções elegantes. No mundo do Git e GitHub, sou um verdadeiro maestro, regendo a sinfonia do desenvolvimento colaborativo. Nos bancos de dados, especialmente em PostgreSQL, construo alicerces robustos para aplicações inovadoras. Minhas APIs REST são como pontes, conectando sistemas de maneira fluida. Além das habilidades técnicas, minhas soft skills fazem toda a diferença, tornando-me um colega colaborativo e eficiente.🚀
 
 👨‍💻 Estou constantemente aprendendo e me atualizando com as últimas tendências tecnológicas.
 
